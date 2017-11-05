@@ -15,7 +15,6 @@ vector<int> merge(vector<int> vector1, vector<int> vector2);
 
 
 // ------------ Main program -------------
-const int arraySize = 2;
 
 int main()
 {
