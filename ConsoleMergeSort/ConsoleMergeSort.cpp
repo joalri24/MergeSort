@@ -19,8 +19,6 @@ const int arraySize = 2;
 
 int main()
 {
-	
-	int array[arraySize];
 	printHeader();
 
 	vector<int> vectorIn = buildArray();
